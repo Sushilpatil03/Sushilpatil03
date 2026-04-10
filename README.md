@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hi, I'm Sushil  <br>I'm a Statistics student passionate about Data Analysis and Machine Learning.<br><br>🌱 Currently learning: Python, Machine Learning and Data Analysis  <br>💼 Machine Learning with Python Intern at EISystems Technologies  <br><br>🛠️ Skills: Microsoft Excel, Python, R, Minitab, Statistics, Data Analysis  <br><br>🎯 Interested in applying statistical models to solve real-world problems  <br>📊 Love working with data, probability, and predictive modeling  <br>
+Hi, I'm Sushil  <br>I'm a Statistics student passionate about Data Analysis and Machine Learning.<br><br>🌱 Currently learning: Microsoft Excel, Python, Machine Learning and Data Analysis  <br>💼 Machine Learning with Python Intern at EISystems Technologies  <br><br>🛠️ Skills: Microsoft Excel, Python, R, Minitab, Statistics, Data Analysis  <br><br>🎯 Interested in applying statistical models to solve real-world problems  <br>📊 Love working with data, probability, and predictive modeling  <br>
 
 
 ## 🌐 Socials:
